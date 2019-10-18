@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 #include <math.h>
- 
+ \\1
 int main() {
     double a, b, c, d ;
     printf("Vvedite chisla: ");
